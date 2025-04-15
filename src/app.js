@@ -3,7 +3,7 @@ exports.lambdaHandler = async (event, context) => {
     return {
       statusCode: 200,
       body: JSON.stringify({
-        message: "Hello World Omega333433!",
+        message: "Hello World Omega6!",
       }),
       //  i love tiktok 2
     };
